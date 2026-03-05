@@ -1,79 +1,75 @@
-# StackEZ Instagram Carousel: Budget 2026 - AI Training for 100,000 Workers
+# StackEZ Instagram Carousel: Budget 2026 - 100,000 Workers Trained in AI
 
----
 
-## Slide 1: Hook
+SLIDE 1
+Headline: 100,000 Workers. AI-Ready by 2029.
+Subtext: Singapore just launched a national plan to make AI part of every job. Here's what SMEs need to know.
 
-**Singapore is training 100,000 workers in AI by 2029.**
 
-Budget 2026 just made AI literacy a national priority.
+SLIDE 2
+Headline: The National AI Impact Programme is here.
+Key points:
+* 100,000 workers to be trained in AI by 2029.
+* 10,000 enterprises to be supported in AI adoption over three years.
+* It builds on Singapore's National AI Strategy 2.0.
+Why it matters: This is not just for tech companies. It is designed for every industry.
 
-Here's what it means for your business.
 
----
+SLIDE 3
+Headline: AI training is coming to your sector.
+Key points:
+* Accountants will learn to use AI for financial reporting and compliance.
+* Lawyers will be trained in AI for research, document review and contracts.
+* Software engineers will be upskilled to manage AI-powered workflows.
+* More sectors like HR are next.
+Why it matters: You do not need to be in tech to benefit from AI fluency.
 
-## Slide 2: The Big Picture
 
-**The National AI Impact Programme (NAIIP) is here.**
+SLIDE 4
+Headline: SMEs get grant support to start using AI.
+Key points:
+* IMDA and Enterprise Singapore have pre-approved cost-effective AI solutions.
+* Grant support is available to lower adoption costs.
+* 15% of SMEs already use AI. The goal is to get more on board.
+Why it matters: "Small businesses stand to gain the most from adopting AI." - Minister Josephine Teo
 
-The goal is simple: help workers become fluent in AI, not just in tech, but across every industry.
 
-It also aims to support 10,000 enterprises in adopting AI over the next three years.
+SLIDE 5
+Headline: Free AI tools and clearer learning paths for workers.
+Key points:
+* TechSkills Accelerator (TeSA) is expanding into non-tech roles.
+* SkillsFuture is being redesigned with clearer AI learning pathways.
+* Selected courses now come with 6 months of free access to premium AI tools.
+* Over 440,000 individuals have already been upskilled through TeSA since 2016.
+Why it matters: The resources are there. It is about taking the first step.
 
-This is not just about tech companies. It is about all of us.
 
----
+SLIDE 6
+Headline: AI adoption does not have to be complicated.
+Key points:
+* New programmes, grants and training can be a lot to navigate.
+* StackEZ helps SMEs find the right AI tools and make sense of available support.
+* From grants to implementation, we walk the journey with you.
+Why it matters: You just need the right partner by your side.
 
-## Slide 3: Who Benefits
 
-**It starts with legal and accountancy, and expands from there.**
+SLIDE 7
+Headline: The future satisfies businesses that move with it.
+Key points:
+* Singapore is investing in AI across every sector.
+* StackEZ helps SMEs stay competitive, compliant and ready for what is next.
+Why it matters: The landscape is shifting. Move forward with confidence.
 
-Accountants can use AI to automate financial reporting and compliance monitoring.
 
-Lawyers can tap AI for research, document review and contract management.
+SLIDE 8
+Headline: Your business. Smarter tools. Real support. Bigger possibilities.
+Follow StackEZ for insights that matter to your business. Have questions? Reach out to us!
+Source: Business Times, 2 March 2026. Committee of Supply debate by Minister Josephine Teo.
 
-Software engineers will be trained to work with AI agents and manage complex workflows.
 
-More sectors like HR are on the way.
-
----
-
-## Slide 4: Support for SMEs
-
-**15% of SMEs already use AI in some way. The government wants more to get started.**
-
-IMDA and Enterprise Singapore have pre-approved cost-effective AI solutions from trusted vendors.
-
-Grant support is available to lower the cost of adoption.
-
-As Minister Teo put it: "Small businesses stand to gain the most from adopting AI."
-
----
-
-## Slide 5: What You Can Tap Into
-
-**Here's what is available to you right now.**
-
-The TechSkills Accelerator (TeSA) programme is expanding beyond tech roles into everyday business functions.
-
-SkillsFuture is being redesigned with clearer AI learning pathways.
-
-Sign up for selected courses and get 6 months of free access to premium AI tools.
-
-Over 440,000 individuals have already been upskilled through TeSA since 2016.
-
----
-
-## Slide 6: How StackEZ Can Help
-
-**Navigating all of this can feel overwhelming. That is where we come in.**
-
-At StackEZ, we help SMEs make sense of these opportunities and put them into action.
-
-From identifying the right AI tools for your business to guiding you through available grants and training programmes, we walk the journey with you.
-
-You do not have to figure this out alone. We are here to help you take that first step.
-
----
-
-*Source: Business Times, 2 March 2026*
+Caption:
+Singapore is training 100,000 workers in AI by 2029 and supporting 10,000 enterprises along the way.
+Swipe to see what this means for your SME.
+Source: Business Times, 2 Mar 2026.
+Follow us for updates that actually matter to your business.
+#Singapore #Budget2026 #AI #SMEs #StackEZ #DigitalTransformation #SmallBusiness #AIAdoption #SkillsFuture #NationalAIImpactProgramme
